@@ -1,0 +1,6 @@
+{
+  "name": "سادن ٢٤",
+  "description": "مساعد خدمة عملاء ذكي يشتغل على تطبيقات ميتا (إنستغرام وواتساب) — موقع تعريفي وتجربة حية تفاعلية مع شخصية سادن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
